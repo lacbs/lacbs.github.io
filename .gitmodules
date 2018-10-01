@@ -1,3 +1,4 @@
 [submodule "project-k"]
 	path = project-k
 	url = https://github.com/lacbs/project-k
+	branch = master
